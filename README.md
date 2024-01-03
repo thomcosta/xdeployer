@@ -171,7 +171,7 @@ xdeploy: {
     gasLimit: 1.2 * 10 ** 6,
 },
 ```
-
+//this might be usefull
 > **Note**<br>
 > We recommend using [Hardhat configuration variables](https://hardhat.org/hardhat-runner/docs/guides/configuration-variables) introduced in Hardhat version [`2.19.0`](https://github.com/NomicFoundation/hardhat/releases/tag/hardhat%402.19.0) to set the private key of your signer.
 
